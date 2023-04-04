@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yy-hung
-- 👀 I’m interested in geography & maps & GeoGuessr & sleeping & piano
-- 🌱 I’m currently learning how to get out of my bed with less than 8 hours of sleep
+- 👀 I’m interested in geography & maps & GeoGuessr & sleeping & piano & (writing buggy codes)
+- 🌱 I’m currently learning how to get out of my bed with less than 8 hours of sleep 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: yingyoukong63@gmail.com
 
