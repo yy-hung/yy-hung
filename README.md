@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yy-hung
-- 👀 I’m interested in geography & GeoGuessr & sleeping & piano & (writing buggy codes) & farmers league
+- 👀 I’m interested in geography & GeoGuessr & sleeping & piano (& writing buggy codes) & farmers league
 - 🌱 I’m currently learning how to get out of my bed with less than 8 hours of sleep 
 - 💞️ I’m looking to collaborate on ...?
 - 📫 How to reach me: hungyykong@gmail.com
